@@ -1,0 +1,1 @@
+[ Key.ctrl_l ][ Key.cmd ]s[ Key.enter ][ Key.shift ]Hellomyself[ Key.space ][ Key.shift ]Bharath[ Key.shift_r ][ Key.enter ][ Key.caps_lock ][ Key.caps_lock ][ Key.shift ][ Key.enter ]
